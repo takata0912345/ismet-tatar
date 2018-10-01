@@ -1,0 +1,2 @@
+# ismet-tatar
+graduate project
